@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\Chris\OneDrive\Documents\Data_Structures_and_Algorithms\Vector Sort\VectorSorting.cpp(87,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\OneDrive\Documents\Data_Structures_and_Algorithms\Vector Sort\VectorSorting.cpp(196,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Vector Sort.vcxproj -> C:\Users\Chris\OneDrive\Documents\Data_Structures_and_Algorithms\Vector Sort\x64\Debug\Vector Sort.exe

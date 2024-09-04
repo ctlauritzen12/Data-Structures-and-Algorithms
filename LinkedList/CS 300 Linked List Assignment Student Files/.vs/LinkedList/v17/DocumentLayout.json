@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chris\\OneDrive\\Documents\\Data_Structures_and_Algorithms\\LinkedList\\CS 300 Linked List Assignment Student Files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28991B-8D9D-4545-98C5-F33404759B58}|LinkedList.vcxproj|C:\\Users\\Chris\\OneDrive\\Documents\\Data_Structures_and_Algorithms\\LinkedList\\CS 300 Linked List Assignment Student Files\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B28991B-8D9D-4545-98C5-F33404759B58}|LinkedList.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\Documents\\Data_Structures_and_Algorithms\\LinkedList\\CS 300 Linked List Assignment Student Files\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedList.cpp",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\Documents\\Data_Structures_and_Algorithms\\LinkedList\\CS 300 Linked List Assignment Student Files\\LinkedList.cpp",
+              "RelativeToolTip": "LinkedList.cpp",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T16:23:55.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

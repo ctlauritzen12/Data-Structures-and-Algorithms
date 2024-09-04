@@ -1,0 +1,5 @@
+﻿  CS300 project 2.cpp
+C:\Users\Chris\OneDrive\Documents\Data_Structures_and_Algorithms\CS300 project 2\CS300 project 2\CS300 project 2.cpp(164,35): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Chris\OneDrive\Documents\Data_Structures_and_Algorithms\CS300 project 2\CS300 project 2\CS300 project 2.cpp(200,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Chris\OneDrive\Documents\Data_Structures_and_Algorithms\CS300 project 2\CS300 project 2\CS300 project 2.cpp(314,13): warning C4551: function call missing argument list
+  CS300 project 2.vcxproj -> C:\Users\Chris\OneDrive\Documents\Data_Structures_and_Algorithms\CS300 project 2\x64\Debug\CS300 project 2.exe
