@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : LinkedList.cpp
-// Author      : Your Name
+// Author      : Chris Lauritzen
 // Version     : 1.0
 // Copyright   : Copyright © 2017 SNHU COCE
 // Description : Lab 3-3 Lists and Searching
