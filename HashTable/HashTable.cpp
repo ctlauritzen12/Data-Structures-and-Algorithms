@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : HashTable.cpp
-// Author      : John Watson
+// Author      : Chris Lauritzen
 // Version     : 1.0
 // Copyright   : Copyright © 2017 SNHU COCE
 // Description : Hello World in C++, Ansi-style
